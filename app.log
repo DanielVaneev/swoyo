@@ -1,0 +1,83 @@
+2025-02-26 22:47:23,865 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:50:28,735 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:50:28,739 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 22:50:28,739 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 22:50:28,739 - INFO - __main__ - read response from server.
+2025-02-26 22:50:44,269 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:50:44,272 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 22:50:44,272 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 22:50:44,272 - INFO - __main__ - read response from server.
+2025-02-26 22:51:56,058 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:51:56,062 - INFO - root - creating HttpRequest object.
+2025-02-26 22:51:56,062 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 22:51:56,062 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 22:51:56,062 - INFO - __main__ - read response from server.
+2025-02-26 22:52:01,075 - INFO - root - 200
+2025-02-26 22:52:01,077 - INFO - root - {"status":"success","message_id":"123456"}
+2025-02-26 22:52:19,111 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:52:19,114 - INFO - root - creating HttpRequest object.
+2025-02-26 22:52:19,114 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 22:52:19,115 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 22:52:19,115 - INFO - __main__ - read response from server.
+2025-02-26 22:52:24,131 - INFO - root - response.status_code=200
+2025-02-26 22:52:24,133 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-26 22:54:54,874 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 22:54:54,878 - INFO - root - creating HttpRequest object.
+2025-02-26 22:54:54,878 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 22:54:54,878 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 22:54:54,878 - INFO - __main__ - read response from server.
+2025-02-26 22:54:59,891 - INFO - root - response.status_code=200
+2025-02-26 22:54:59,892 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-26 22:59:53,114 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 23:00:00,239 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 23:00:00,243 - INFO - root - creating HttpRequest object.
+2025-02-26 23:00:22,330 - INFO - __main__ - readed data from CLI Namespace(sender='123456', receiver='789101', message='Привет, как дела?')
+2025-02-26 23:00:22,334 - INFO - root - creating HttpRequest object.
+2025-02-26 23:00:22,334 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 23:00:22,334 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 23:00:22,334 - INFO - __main__ - read response from server.
+2025-02-26 23:00:27,356 - INFO - root - response.status_code=200
+2025-02-26 23:00:27,358 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-26 23:00:51,741 - INFO - __main__ - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-26 23:00:51,744 - INFO - root - creating HttpRequest object.
+2025-02-26 23:00:51,744 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 23:00:51,745 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 23:00:51,745 - INFO - __main__ - read response from server.
+2025-02-26 23:00:56,755 - INFO - root - response.status_code=200
+2025-02-26 23:00:56,756 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-26 23:03:55,081 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-26 23:03:55,084 - INFO - root - creating HttpRequest object.
+2025-02-26 23:03:55,084 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 23:03:55,085 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 23:03:55,085 - INFO - __main__ - read response from server.
+2025-02-26 23:04:00,123 - INFO - root - response.status_code=200
+2025-02-26 23:04:00,124 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-26 23:04:39,982 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-26 23:04:39,986 - INFO - root - creating HttpRequest object.
+2025-02-26 23:04:39,986 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-26 23:04:39,986 - INFO - root - transform http_request to bytes and send request.
+2025-02-26 23:04:39,986 - INFO - __main__ - read response from server.
+2025-02-26 23:04:44,997 - INFO - root - response.status_code=200
+2025-02-26 23:04:44,998 - INFO - root - response.body='{"status":"success","message_id":"123456"}'
+2025-02-27 17:26:23,147 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:26:23,147 - INFO - root - creating HttpRequest object.
+2025-02-27 17:26:23,147 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:26:42,864 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:26:42,879 - INFO - root - creating HttpRequest object.
+2025-02-27 17:26:42,879 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:28:54,283 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:28:54,283 - INFO - root - creating HttpRequest object.
+2025-02-27 17:28:54,283 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:30:56,366 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:30:56,387 - INFO - root - creating HttpRequest object.
+2025-02-27 17:30:56,388 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:33:07,895 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:33:07,905 - INFO - root - creating HttpRequest object.
+2025-02-27 17:33:07,906 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:58:00,021 - INFO - cli_parser - readed data from CLI Namespace(sender='123456', recipient='789101', message='Привет, как дела?')
+2025-02-27 17:58:00,036 - INFO - root - creating HttpRequest object.
+2025-02-27 17:58:00,036 - INFO - root - creating connect to 127.0.0.1 with socket.
+2025-02-27 17:58:00,039 - INFO - root - transform http_request to bytes and send request.
+2025-02-27 17:58:00,041 - INFO - __main__ - read response from server.
+2025-02-27 17:58:05,150 - INFO - root - response.status_code=200
+2025-02-27 17:58:05,150 - INFO - root - response.body='{"status":"success","message_id":"123456"}'

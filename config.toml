@@ -1,0 +1,6 @@
+[sms-service]
+url = "127.0.0.1"
+path = "/send_sms"
+port = 4010
+user = "admin"
+password = "secret"
